@@ -1,0 +1,45 @@
+body{
+    background-color: #6B8E23;
+    color: white;
+    font-family: "Poiret One", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+    margin: 0;
+}
+
+p{
+    font-size: 40px;
+}
+
+h1{
+    font-size: 20px;
+}
+
+button{
+    background-color: #556B2F;
+    color: white;
+    font-family: "Poiret One", sans-serif;
+    margin-left: 2px;
+    margin-right: 2px;
+    font-size: 25px;
+}
+
+main{
+    text-align: center;
+    max-width: 50%;
+}
+
+.passo{
+    display:none;
+}
+
+.passo.ativo{
+    display:block;
+}
+
+img{
+    max-width: 40%;
+}
+
